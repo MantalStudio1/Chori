@@ -41,11 +41,11 @@ logo = """'
 
 
 '\x1b[1;91m'
-'\x1b[1;91m'   Author      ||   ManTalStudio   
-'\x1b[1;92m'   Github      ||     ManTalStudio
+'\x1b[1;91m'   Author      ||    ManTalStudio   
+'\x1b[1;92m'   Github      ||    ManTalStudio
 '\x1b[1;93m'   FB ID       ||    ManTalStudio
-'\x1b[1;94m'   TOOL TYPE   ||    PAID
-'\x1b[1;96m'   WAP NUMBER  ||     03011517172           
+'\x1b[1;94m'   TOOL TYPE   ||    Pro PAid
+'\x1b[1;96m'   WAP NUMBER  ||    03011517172           
 '\x1b[1;91m'
 """
 dec="2"
