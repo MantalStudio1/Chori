@@ -49,9 +49,7 @@ cpc = 'CP-'+str(tgl)+'-'+str(bln)+'-'+str(thn)+'.txt'
 # CLEAR
 def clear():
 	os.system('clear')
-# BACK
-def back():
-	login()
+
 # BANNER
 def banner():
 	clear()
