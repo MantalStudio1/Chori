@@ -878,5 +878,4 @@ if __name__=='__main__':
 	except:pass
 	try:os.mkdir('OK')
 	except:pass
-	lisensi()
         
